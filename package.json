@@ -1,0 +1,25 @@
+{
+  "name": "scheduled-merge-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rongxin-liu/scheduled-merge-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rongxin-liu/scheduled-merge-test/issues"
+  },
+  "homepage": "https://github.com/rongxin-liu/scheduled-merge-test#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0",
+    "@octokit/action": "^3.0.1"
+  }
+}
